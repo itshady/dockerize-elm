@@ -1,0 +1,28 @@
+{
+    "type":"package",
+    "name":"itshady/elm-test",
+    "version": "1.0.0",
+    "summary": "helpful summary of your project, less than 80 characters",
+    "repository": "https://github.com/user/project.git",
+    "license": "0BSD",
+    "source-directories": [
+        "."
+    ],
+    "exposed-modules": [],
+    "dependencies": {
+        "elm-lang/core": "5.0.0 <= v < 6.0.0",
+        "elm-lang/html": "2.0.0 <= v < 3.0.0",
+
+        "elm/browser": "1.0.0 <= v < 6.0.0",
+        "elm/core": "1.0.0 <= v < 6.0.0",
+        "elm/html": "1.0.0 <= v < 6.0.0",
+        "elm/json": "1.0.0 <= v < 6.0.0",
+        "elm/time": "1.0.0 <= v < 6.0.0",
+        "elm/url": "1.0.0 <= v < 6.0.0",
+        "elm/virtual-dom": "1.0.0 <= v < 6.0.0"
+    },
+    "elm-version": "0.18.0 <= v < 0.19.0",
+    "test-dependencies": {
+
+    }
+}
